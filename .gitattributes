@@ -1,2 +1,2 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+*.dat		text
+examples/Data/multi-barcode-4x3.dat      diff
